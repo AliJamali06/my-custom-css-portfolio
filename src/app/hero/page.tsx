@@ -28,8 +28,8 @@ function Hero() {
           <div className="hero-divider"></div>
           <p className="hero-description">
             I am a passionate and skilled front-end developer with expertise
-            in building responsive, user-friendly web applications. With
-            experience in HTML, CSS, JavaScript, React, and Next.js, I bring a
+            in building responsive user-friendly web applications. With
+            experience in HTML CSS JavaScript React and Next.js I bring a
             strong understanding of UI/UX principles and design aesthetics to
             every project. My focus is on creating seamless and engaging user
             experiences while ensuring functionality and performance.

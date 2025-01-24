@@ -41,7 +41,7 @@ function Contact() {
               <div className="contact-info">
                 <a href="mailto:alijamali03063240450@gmail.com" className="email-link">alijamali03063240450@gmail.com</a>
                 <p className="phone-info">Phone No: 0306-3240450</p>
-                <p className="address-info">Mumtaz Colony P/O Bhan Sayedabad, Talka Sehwan, Distt Jamshoro</p>
+                <p className="address-info">Mumtaz Colony P/O Bhan Sayedabad Talka Sehwan Distt Jamshoro</p>
                 <span className="github-icon">
                   <Link href={"https://github.com/alijamali06"} className="github-link">
                     <BsGithub />
