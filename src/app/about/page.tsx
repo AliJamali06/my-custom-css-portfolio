@@ -59,10 +59,10 @@ function About() {
           <div className="text-container">
             <h1 className="title">About Me</h1>
             <p className="description">
-              Hello, I'm <span className="highlight">Ali Dost Jamali</span>, a passionate frontend developer with a keen interest in artificial intelligence (AI). I am currently pursuing my studies in AI while continuously enhancing my skills in web development.
+              Hello Im <span className="highlight">Ali Dost Jamali</span> a passionate frontend developer with a keen interest in artificial intelligence (AI). I am currently pursuing my studies in AI while continuously enhancing my skills in web development.
               <br />
               <br />
-              With a background in programming and a growing knowledge of technologies like TypeScript and Next.js, I aim to create engaging and user-friendly websites. I believe in constant learning and strive to stay updated with the latest trends in technology to deliver high-quality solutions.
+              With a background in programming and a growing knowledge of technologies like TypeScript and Next.js I aim to create engaging and user-friendly websites. I believe in constant learning and strive to stay updated with the latest trends in technology to deliver high-quality solutions.
             </p>
           </div>
         </div>
